@@ -5,13 +5,13 @@
              "API_KEY": "api-key-goes-here",
              "API_SECRET": "api-secret-goes-here",
              "ENABLED": true,
-             "TESTNET": false
+             "TESTNET": true
         },
         "BINANCE-FUTURES": {
-             "API_KEY": "api-key-goes-here",
-             "API_SECRET": "api-secret-goes-here",
-             "ENABLED": false,
-             "TESTNET": false
+             "API_KEY": "1a01b958eeb0b91e5c23c274570e32c9b1a09802a3507c8ebef9ddf74c7fad5a",
+             "API_SECRET": "440c8ff29652a493c8715e29c85467b5573a12da310423284945d8dad9807831",
+             "ENABLED": true,
+             "TESTNET": true
         }
    }
 
